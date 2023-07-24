@@ -16,6 +16,7 @@ nav {
     padding-bottom: 2rem;
     width: 100%;
     box-shadow: .0rem .0rem .1rem grey;
+    z-index: 100
 }
 
 
@@ -300,6 +301,7 @@ nav {
     z-index: 1;
     padding-left: 18rem;
     padding-top: 2rem;
+    z-index:-1;
 }
 
 #achievements .con1 .con1_1 {
