@@ -301,7 +301,7 @@ nav {
     z-index: 1;
     padding-left: 18rem;
     padding-top: 2rem;
-    z-index:-1;
+    z-index:1;
 }
 
 #achievements .con1 .con1_1 {
